@@ -1,0 +1,112 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "partNumber": "12355",
+      "section": "",
+      "defects": "",
+      "workerId": "",
+      "reason": ""
+    },
+    {
+      "id": 5,
+      "partNumber": "123",
+      "section": null,
+      "defects": null,
+      "workerId": null,
+      "reason": null
+    },
+    {
+      "id": 6,
+      "partNumber": "mould shift",
+      "section": "fetling",
+      "defects": "44",
+      "workerId": "12",
+      "reason": ""
+    },
+    {
+      "partNumber": "1",
+      "section": "1",
+      "defects": "1",
+      "workerId": "1",
+      "reason": "",
+      "id": 7
+    }
+  ],
+  "signup": [
+    {
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "password": "",
+      "id": 1
+    },
+    {
+      "name": "pratik",
+      "email": "pratikmohite67@gmail.com",
+      "mobile": "8123801543",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "pratik",
+      "email": "pratikmohite67@gmail.com",
+      "mobile": "8123801543",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "name": "pavana",
+      "email": "renumohite55@gmail.com",
+      "mobile": "7894561230",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "name": "ganesh chate",
+      "email": "ganesgchate@gmail.com",
+      "mobile": "1234567890",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "name": "Ganesh Chate",
+      "email": "ganeshchate00@gmail.com",
+      "mobile": "1478523690",
+      "password": "12345",
+      "id": 6
+    },
+    {
+      "name": "chinmay",
+      "email": "chinmaysirdeshpande@gmail.com",
+      "mobile": "7894561230",
+      "password": "12345",
+      "id": 7
+    },
+    {
+      "name": "viraj",
+      "email": "viraj1908@gmail.com",
+      "mobile": "1234567890",
+      "password": "12345",
+      "id": 8
+    },
+    {
+      "name": "Darshan",
+      "email": "darshant.hanchate50@gmail.com",
+      "mobile": "789654130",
+      "password": "12345",
+      "id": 9
+    },
+    {
+      "name": "renumohite55@gmail.com",
+      "email": "renumohite55@gmail.com",
+      "mobile": "renumohite55@gmail.com",
+      "password": "11111",
+      "id": 10
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
