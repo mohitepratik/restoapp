@@ -95,6 +95,166 @@
       "workerId": "222",
       "reason": "Blow Holes",
       "id": 12
+    },
+    {
+      "partNumber": "1564",
+      "section": "Shakeoutt",
+      "defects": "7",
+      "workerId": "456",
+      "reason": "Shrinkage",
+      "id": 13
+    },
+    {
+      "partNumber": "85586",
+      "section": "Shakeoutt",
+      "defects": "15",
+      "workerId": "589",
+      "reason": "Blow Holes",
+      "id": 14
+    },
+    {
+      "partNumber": "85697",
+      "section": "Shakeoutt",
+      "defects": "15",
+      "workerId": "005",
+      "reason": "Mould shift",
+      "id": 15
+    },
+    {
+      "partNumber": "4655",
+      "section": "Shakeoutt",
+      "defects": "50",
+      "workerId": "02365",
+      "reason": "Mould shift",
+      "id": 16
+    },
+    {
+      "partNumber": "1265",
+      "section": "Grinding",
+      "defects": "10",
+      "workerId": "1256",
+      "reason": "Blow Holes",
+      "id": 17
+    },
+    {
+      "partNumber": "1256",
+      "section": "Grinding",
+      "defects": "10",
+      "workerId": "2356",
+      "reason": "Mould shift",
+      "id": 18
+    },
+    {
+      "partNumber": "236545",
+      "section": "Grinding",
+      "defects": "5",
+      "workerId": "2366",
+      "reason": "Mould shift",
+      "id": 19
+    },
+    {
+      "partNumber": "24562",
+      "section": "Grinding",
+      "defects": "10",
+      "workerId": "21556",
+      "reason": "Pouring Metal Defects",
+      "id": 20
+    },
+    {
+      "partNumber": "rttg5yhy",
+      "section": "Inspectin",
+      "defects": "20",
+      "workerId": "1",
+      "reason": "Mould shift",
+      "id": 21
+    },
+    {
+      "partNumber": "785665",
+      "section": "Grinding",
+      "defects": "5",
+      "workerId": "008",
+      "reason": "Shrinkage",
+      "id": 22
+    },
+    {
+      "partNumber": "56987",
+      "section": "Grinding",
+      "defects": "10",
+      "workerId": "2356",
+      "reason": "Blow Holes",
+      "id": 23
+    },
+    {
+      "partNumber": "565",
+      "section": "Grinding",
+      "defects": "5",
+      "workerId": "120",
+      "reason": "Mould shift",
+      "id": 24
+    },
+    {
+      "partNumber": "1256",
+      "section": "Grinding",
+      "defects": "10",
+      "workerId": "12",
+      "reason": "Mould shift",
+      "id": 25
+    },
+    {
+      "partNumber": "256498",
+      "section": "Inspectin",
+      "defects": "15",
+      "workerId": "256",
+      "reason": "Pouring Metal Defects",
+      "id": 26
+    },
+    {
+      "partNumber": "456321",
+      "section": "Inspectin",
+      "defects": "10",
+      "workerId": "007",
+      "reason": "Mould shift",
+      "id": 27
+    },
+    {
+      "partNumber": "56489",
+      "section": "Grinding",
+      "defects": "10",
+      "workerId": "2356",
+      "reason": "Shrinkage",
+      "id": 28
+    },
+    {
+      "partNumber": "21356",
+      "section": "Shakeoutt",
+      "defects": "10",
+      "workerId": "2356",
+      "reason": "Mould shift",
+      "id": 29
+    },
+    {
+      "partNumber": "23456",
+      "section": "Grinding",
+      "defects": "5",
+      "workerId": "000",
+      "reason": "Mould shift",
+      "id": 30
+    },
+    {
+      "partNumber": "21356",
+      "section": "Grinding",
+      "defects": "5",
+      "workerId": "0231",
+      "reason": "Shrinkage",
+      "id": 31
+    },
+    {
+      "partNumber": "24562",
+      "section": "Inspectin",
+      "defects": "10",
+      "workerId": "230",
+      "reason": "Blow Holes",
+      "id": 32
     }
   ],
   "signup": [
@@ -167,6 +327,13 @@
       "mobile": "renumohite55@gmail.com",
       "password": "11111",
       "id": 10
+    },
+    {
+      "name": "renumohite",
+      "email": "renumohite55@gmail.com",
+      "mobile": "1235548555",
+      "password": "55555",
+      "id": 11
     }
   ],
   "comments": [],
